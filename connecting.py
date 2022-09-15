@@ -26,7 +26,7 @@ def config(filename='creds/credentials.ini', section='postgresql'):
     return db
 
 
-def connect():
+'''def connect():
     """Method used for connecting to an arbitrary pSQL database
     """
 
@@ -42,3 +42,4 @@ def connect():
 
         # Creating a cursor
         cur = conn.cursor()
+'''
