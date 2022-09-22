@@ -1,2 +1,5 @@
 /__pycache__/
 /creds/credentials.ini
+/creds/creds_json.json
+/creds/token.json
+/creds/sc.json
